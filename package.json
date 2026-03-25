@@ -1,0 +1,21 @@
+{
+  "name": "qr-code-generator-ecommerce",
+  "version": "1.0.0",
+  "description": "Toolkit for ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "start": "node/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmevictorhugo/qr-code-generator-ecommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/itsmevictorhugo/qr-code-generator-ecommerce/issues"
+  },
+  "homepage": "https://github.com/itsmevictorhugo/qr-code-generator-ecommerce#readme"
+}
