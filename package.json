@@ -4,7 +4,7 @@
   "description": "Toolkit for ecommerce",
   "main": "index.js",
   "scripts": {
-    "start": "node/index.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/itsmevictorhugo/qr-code-generator-ecommerce/issues"
   },
-  "homepage": "https://github.com/itsmevictorhugo/qr-code-generator-ecommerce#readme"
+  "homepage": "https://github.com/itsmevictorhugo/qr-code-generator-ecommerce#readme",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
 }
